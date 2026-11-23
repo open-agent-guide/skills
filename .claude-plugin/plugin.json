@@ -1,0 +1,10 @@
+{
+  "name": "ai-adoption-skills",
+  "version": "0.1.0",
+  "description": "Find, compare, and adopt AI-native products with cited Open Agent Guide catalog evidence.",
+  "author": {
+    "name": "Open Agent Guide",
+    "email": "support@openagentguide.com"
+  },
+  "homepage": "https://www.openagentguide.com"
+}
