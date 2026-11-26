@@ -1,0 +1,17 @@
+{
+  "name": "ai-adoption-skills",
+  "owner": {
+    "name": "Open Agent Guide",
+    "url": "https://www.openagentguide.com"
+  },
+  "metadata": {
+    "description": "Find, compare, and adopt AI-native products with cited Open Agent Guide catalog evidence."
+  },
+  "plugins": [
+    {
+      "name": "ai-adoption-skills",
+      "source": "./",
+      "description": "Find, compare, and adopt AI-native products with cited Open Agent Guide catalog evidence."
+    }
+  ]
+}
